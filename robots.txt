@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cadiz.desarrolladoresdeapps.com/sitemap.xml
